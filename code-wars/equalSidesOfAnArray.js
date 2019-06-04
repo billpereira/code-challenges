@@ -39,9 +39,6 @@ function findEvenIndex(arr) {
 
         console.log('sumA', sumA)
         console.log('sumB', sumB)
-        // if(sumA===sumB) {
-        //     return index
-        // }
         
     }
 	return index
